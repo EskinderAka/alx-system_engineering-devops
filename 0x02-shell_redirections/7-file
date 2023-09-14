@@ -1,0 +1,3 @@
+#!/bin/bash 
+file="*\\"\"Best School\"\\*$?*****:)" text="Best School" echo "$text" > "$file"
+
